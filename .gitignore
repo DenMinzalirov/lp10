@@ -103,3 +103,4 @@ venv.bak/
 
 # Local development
 .local
+node_modules
